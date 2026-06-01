@@ -216,6 +216,7 @@ Instead of keeping it various locations in this repo, I kept it here for quick l
 15. [tl;dr sec by Clint Gibler](https://tldrsec.com/) - Weekly AppSec/DevSecOps digest (recommended).
 16. [Risky Business podcast + newsletter](https://risky.biz/)
 17. [OpenSSF Feed / Open Source Security Digest](https://openssf.org/blog/)
+18. [defend.network](https://defend.network) - Free daily cyber threat briefings and weekly vulnerability reports, with every CVE verified against NVD and the CISA KEV catalog (RSS at defend.network/feed.xml).
 
 ## Security: Blogs/Articles
 1. [Reddit: How to get started in Cybersecurity](https://www.reddit.com/r/cybersecurity/comments/ti6a1n/how_to_get_started_into_cybersecurity/)

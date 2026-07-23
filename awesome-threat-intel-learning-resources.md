@@ -40,6 +40,7 @@ Cyber Threat Intelligence covers strategic, operational, tactical, and technical
 5. [TryHackMe - Cyber Defense / Threat Intelligence paths](https://tryhackme.com/paths)
 6. [OpenCTI documentation & tutorials](https://docs.opencti.io/latest/)
 7. [MISP training materials (free)](https://www.misp-project.org/training/)
+8. [CTI Academy](https://ctiacademy.io/)
 
 ### Paid
 8. [SANS FOR578: Cyber Threat Intelligence (GCTI)](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) - Industry standard course.
@@ -126,3 +127,4 @@ Cyber Threat Intelligence covers strategic, operational, tactical, and technical
 18. [Awesome Threat Intelligence list (GitHub)](https://github.com/hslatman/awesome-threat-intelligence)
 19. [APT groups & operations (Google Sheets by FireEye/Mandiant)](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit)
 20. [CISA Known Exploited Vulnerabilities (KEV) catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+21. [CTI Academy Blogs](https://ctiacademy.io/blog/)

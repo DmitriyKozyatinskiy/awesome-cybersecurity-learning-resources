@@ -85,6 +85,7 @@ We would keep adding relevant learning references when we find them informative 
 8. [CTF Time](https://ctftime.org/) 
 9. [Hacker101 by HackerOne](https://www.hacker101.com/)
 10. [CyberDefenders](https://cyberdefenders.org/) - Blue-team challenges, DFIR.
+12. [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - open source (GPL-3.0) autonomous AI pentest platform, self-hosted, to train safely on legal labs (OWASP Juice Shop, DVWA, kubernetes-goat, Hack The Box); covers web, API, Active Directory and Kubernetes.
 11. [RangeForce](https://www.rangeforce.com/) - Blue-team labs.
 
 ## Security Certifications

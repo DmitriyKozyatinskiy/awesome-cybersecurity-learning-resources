@@ -97,6 +97,9 @@ AI/ML security is a fast-moving domain. It spans classical ML security (adversar
 31. [Anthropic - Responsible Scaling Policy and red teaming posts](https://www.anthropic.com/research)
 32. [OpenAI - System Cards and safety evaluations](https://openai.com/safety)
 
+### AI Agent Security Research
+30. [AI Agent SRC Vulnerability Research](https://github.com/OLDBAI213/src-research) - AI agent learning SRC vulnerability research from scratch: research notes, framework analysis, 12 real cases, 30-day learning roadmap (Chinese).
+
 ## AI/ML Security Tools
 ### Guardrails / prompt defenses
 1. [LLM Guard by Protect AI](https://github.com/protectai/llm-guard) - Input/output sanitization, PII, jailbreak, toxicity.

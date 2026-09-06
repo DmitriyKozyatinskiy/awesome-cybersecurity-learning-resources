@@ -108,6 +108,9 @@ OSINT is the practice of collecting and analyzing publicly-available information
 37. [InVID / WeVerify plugin](https://www.invid-project.eu/) - Video / image verification.
 38. [FotoForensics](https://fotoforensics.com/) - Image forensics.
 
+[Metadata Remover Viewer](https://metadataremover.ai/metadata-viewer) - Browser-local EXIF, GPS, XMP, and IPTC inspection; files stay in the browser.
+Metadata can be missing, stripped, edited, or forged; corroborate it with provenance and visual/context evidence.
+
 ### Dark-web / underground (use caution, legality varies)
 39. [Ahmia (Tor search)](https://ahmia.fi/)
 40. [Intelligence X](https://intelx.io/)
